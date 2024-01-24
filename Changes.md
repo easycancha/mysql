@@ -4,7 +4,7 @@ This file is a manually maintained list of changes for each release. Feel free
 to add your changes here when sending pull requests. Also send corrections if
 you spot any mistakes.
 
-## HEAD
+## v2.18.1 (2024-01-24)
 
 * Accept the `maxVersion` and `minVersion` properties in connection `ssl` option #2301 #2304
 * Support Node.js 14.x
